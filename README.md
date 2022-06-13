@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poohdetama
 - 👀 I’m interested in learning more technologies and having fun.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently working on the Odin Project.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me on here!
 
